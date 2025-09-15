@@ -45,6 +45,7 @@ O modelo que apresentou **melhor desempenho** foi a **Logistic Regression**, ati
 ---
 
 ## 📂 Estrutura do Repositório
+
 ├── crocodile_dataset.csv # Dataset utilizado
 ├── notebook.ipynb # Código em Python (Colab/Jupyter)
 └── README.md # Documentação do projeto
