@@ -11,7 +11,6 @@ O dataset utilizado contém informações sobre crocodilos, incluindo:
 
 A variável alvo (**y**) escolhida foi o **Common Name** (espécie do crocodilo).
 
----
 
 ## ⚙️ Etapas
 1. **Exploração dos Dados** → análise inicial e distribuição das espécies.  
@@ -24,8 +23,6 @@ A variável alvo (**y**) escolhida foi o **Common Name** (espécie do crocodilo)
 5. **Avaliação** → métricas de acurácia, matriz de confusão, precisão, recall e F1-score.  
 6. **Comparação Final** → gráfico comparando os três modelos.
 
----
-
 ## 🏆 Resultados
 Acurácias finais obtidas:
 
@@ -35,17 +32,13 @@ Acurácias finais obtidas:
 
 O modelo que apresentou **melhor desempenho** foi a **Logistic Regression**, atingindo quase 98% de acurácia.
 
----
-
 ## 🚀 Melhorias Futuras
 - Aplicar normalização para melhorar o desempenho do KNN.  
 - Realizar tuning de hiperparâmetros.  
 - Testar modelos adicionais como Random Forest e SVM.  
 
----
-
 ## 📂 Estrutura do Repositório
 
-├── crocodile_dataset.csv # Dataset utilizado
-├── notebook.ipynb # Código em Python (Colab/Jupyter)
-└── README.md # Documentação do projeto
+├── crocodile_dataset.csv
+├── Atividade-Crocodilo.ipynb 
+└── README.md
